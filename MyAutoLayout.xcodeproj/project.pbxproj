@@ -54,14 +54,46 @@
 		D5FC17861E44328A0004499C /* MyAutoLayout */ = {
 			isa = PBXGroup;
 			children = (
-				D5FC17871E44328A0004499C /* AppDelegate.swift */,
-				D5FC17891E44328A0004499C /* ViewController.swift */,
 				D5FC178B1E44328A0004499C /* Main.storyboard */,
+				D5FC179C1E4432B20004499C /* M */,
+				D5FC179B1E4432AD0004499C /* V */,
+				D5FC179A1E4432AA0004499C /* C */,
+				D5FC17991E44329C0004499C /* Supporting Files */,
+			);
+			path = MyAutoLayout;
+			sourceTree = "<group>";
+		};
+		D5FC17991E44329C0004499C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D5FC17871E44328A0004499C /* AppDelegate.swift */,
 				D5FC178E1E44328A0004499C /* Assets.xcassets */,
 				D5FC17901E44328A0004499C /* LaunchScreen.storyboard */,
 				D5FC17931E44328A0004499C /* Info.plist */,
 			);
-			path = MyAutoLayout;
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D5FC179A1E4432AA0004499C /* C */ = {
+			isa = PBXGroup;
+			children = (
+				D5FC17891E44328A0004499C /* ViewController.swift */,
+			);
+			name = C;
+			sourceTree = "<group>";
+		};
+		D5FC179B1E4432AD0004499C /* V */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = V;
+			sourceTree = "<group>";
+		};
+		D5FC179C1E4432B20004499C /* M */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = M;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
